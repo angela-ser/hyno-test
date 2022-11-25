@@ -64,7 +64,7 @@ async function Xasena() {
   conn.ev.on("connection.update", async (s) => {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
-      console.log("HyNO");
+      console.log("HyNO BOT MD");
       console.log("ℹ️ Connecting to WhatsApp... Please Wait.");
     }
     if (connection === "open") {
