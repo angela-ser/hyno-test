@@ -2,7 +2,7 @@
   "name": "hyno",
   "version": "3.3.7",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./bot.js",
+  "main": "./index.js",
   "scripts": {
     "start": "node index.js"
   },
